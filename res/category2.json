@@ -1,0 +1,44 @@
+ {
+    "name": "Movies",
+    "questions": [
+      {
+        "question": "The Moon of Barods, a diamond that Marilyn Monroe wore when singing \"Diamonds Are A Girl's Best Friend\" in the film Gentlemen prefer Blondes, was auctioned off at Christies for how much in 1990?",
+        "correctAnswer": 1,
+        "answers": [
+          {"text": "$97,000"},
+          {"text": "$297,000"},
+          {"text": "$497,000"}
+        ]
+      },
+      {
+        "question": "Which one of these Academy Awards did Gone With the Wind not win",
+        "correctAnswer": 0,
+        "answers": [
+          {"text": "best actor"},
+          {"text": "best actress"},
+          {"text": "best picture"}
+        ]
+      },
+      {
+        "question": "Which one of these talented actors did not star in the 1989 movie \"Family Business\"?",
+        "correctAnswer": 2,
+        "answers": [
+          {"text": "Sean Connery"},
+          {"text": "Matthew Broderick"},
+          {"text": "Tom Cruise"}
+        ]
+      },
+      {
+        "question": "In the 1933 movie where May West spoke the line \"Come up and see me sometime\" , called She Done Him Wrong, who was her co-star?",
+        "correctAnswer": 2,
+        "answers": [
+          {"text": "W.C. Fields"},
+          {"text": "Cary Grant"},
+          {"text": "James Stewart"}
+        ]
+      }
+
+    ]
+  }
+
+

@@ -1,0 +1,161 @@
+[{
+		"Category": "General Knowledge ",
+		"Question": "What do the Danish call Danish pastries:",
+		"Response 1": "Danish pastries ",
+		"Response 2": "Viennese bread",
+		"Response 3": "Alsatian cakes",
+		"Correct Response": 2
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "The German word kummerspeck, meaning weight gained through comfort eating, literally means what:",
+		"Response 1": "Cream guzzling ",
+		"Response 2": "Grief bacon",
+		"Response 3": "Disappointment candy",
+		"Correct Response": 2
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "A swede is",
+		"Response 1": "A cross between a cabbage and a turnip",
+		"Response 2": "A cross between a parsnip and a beetroot",
+		"Response 3": "A cross between fennel and carrots",
+		"Correct Response": 1
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "Which of these was once the national drink of Scotland? ",
+		"Response 1": "Claret ",
+		"Response 2": "Amaretto",
+		"Response 3": "Vodka",
+		"Correct Response": 1
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "Which of the following was a predecessor of the Milky Way bar",
+		"Response 1": "Fat Emma ",
+		"Response 2": "Lardy Larry",
+		"Response 3": "Penny Plump",
+		"Correct Response": 1
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "According to the International Cloud Atlas, which of these is the highest?",
+		"Response 1": "Cloud nine",
+		"Response 2": "Cloud zero",
+		"Response 3": "Fog",
+		"Correct Response": 2
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "Which is the deepest loch in Scotland",
+		"Response 1": "Loch Lomand",
+		"Response 2": "Loch Ness",
+		"Response 3": "Loch Morar",
+		"Correct Response": 3
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "What was the first of Earth's supercontinents",
+		"Response 1": "Pangaea ",
+		"Response 2": "Gondwanaland",
+		"Response 3": "Rodinia",
+		"Correct Response": 3
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "In which country was the Can-Can invented",
+		"Response 1": "France",
+		"Response 2": "UK ",
+		"Response 3": "Canada",
+		"Correct Response": 1
+	},
+	{
+		"Category": "General Knowledge ",
+		"Question": "The word \"absinthe\" comes from the Greek apsinthion, meaning what",
+		"Response 1": "Green Monster",
+		"Response 2": "Vomiting ",
+		"Response 3": "Undrinkable",
+		"Correct Response": 3
+	},
+	{
+		"Category": "Movies",
+		"Question": "The Moon of Barods, a diamond that Marilyn Monroe wore when singing \"Diamonds Are A Girl's Best Friend\" in the film Gentlemen prefer Blondes, was auctioned off at Christies for how much in 1990?",
+		"Response 1": "$97,000",
+		"Response 2": "$297,000",
+		"Response 3": "$497,000",
+		"Correct Response": 2
+	},
+	{
+		"Category": "Movies",
+		"Question": "Which one of these Academy Awards did Gone With the Wind not win",
+		"Response 1": "best actor",
+		"Response 2": "best actress",
+		"Response 3": "best picture",
+		"Correct Response": 1
+	},
+	{
+		"Category": "Movies",
+		"Question": "Which one of these talented actors did not star in the 1989 movie \"Family Business\"?",
+		"Response 1": "Sean Connery",
+		"Response 2": "Matthew Broderick",
+		"Response 3": "Tom Cruise ",
+		"Correct Response": 3
+	},
+	{
+		"Category": "Movies",
+		"Question": "In the 1933 movie where May West spoke the line \"Come up and see me sometime\" , called She Done Him Wrong, who was her co-star",
+		"Response 1": "W.C. Fields",
+		"Response 2": "Cary Grant",
+		"Response 3": "James Stewart",
+		"Correct Response": 2
+	},
+	{
+		"Category": "Movies",
+		"Question": "Clint Eastwood gave us the immortal line, \"Go ahead... make my day\", in what film?",
+		"Response 1": "Dirty Harry ",
+		"Response 2": "Magnum Force",
+		"Response 3": "Sudden Impact",
+		"Correct Response": 2
+	},
+	{
+		"Category": "Movies",
+		"Question": "In the 1951 science fiction movie, The Day The Earth Stood Still, what was the name of the robot?",
+		"Response 1": "Gort ",
+		"Response 2": "Klaatu",
+		"Response 3": "Robby",
+		"Correct Response": 1
+	},
+	{
+		"Category": "Movies",
+		"Question": "Jack Walsh and Jonathan Mardukas  are the names of the two main characters in what movie?",
+		"Response 1": "Midnight Cowboy",
+		"Response 2": "Midnight Express",
+		"Response 3": "Midnight Run ",
+		"Correct Response": 3
+	},
+	{
+		"Category": "Movies",
+		"Question": "What is the film crew's chief electrician called?",
+		"Response 1": "big L",
+		"Response 2": "gaffer ",
+		"Response 3": "sparks",
+		"Correct Response": 2
+	},
+	{
+		"Category": "Movies",
+		"Question": "After winning the 1988 Oscar, who said \"I never thought I'd have a nomination... I never thought anybody ever took any of my pictures seriously\"?",
+		"Response 1": "Cher",
+		"Response 2": "Jodie Foster ",
+		"Response 3": "Shirley Maclaine",
+		"Correct Response": 2
+	},
+	{
+		"Category": "Movies",
+		"Question": "In the 1946 movie \"The She-Wolf of London\", who played the title role?",
+		"Response 1": "Eva Gabor",
+		"Response 2": "Boris Karloff",
+		"Response 3": "June Lockhart ",
+		"Correct Response": 3
+	}
+]

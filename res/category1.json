@@ -1,0 +1,56 @@
+{
+  "name": "General Knowledge",
+  "questions": [
+    {
+      "question": "What do the Danish call Danish pastries",
+      "correctAnswer": 1,
+      "answers": [
+        {"text": "Danish pastries"},
+        {"text": "Viennese bread"},
+        {"text": "Alsatian cakes"}
+      ]
+    },
+    {
+      "question": "The German word kummerspeck, meaning weight gained through comfort eating, literally means what",
+      "correctAnswer": 1,
+      "answers": [
+        {"text": "Cream guzzling"},
+        {"text": "Grief bacon"},
+        {"text": "Disappointment candy"}
+      ]
+    },
+    {
+      "question": "A swede is",
+      "correctAnswer": 0,
+      "answers": [
+        {"text": "A cross between a cabbage and a turnip"},
+        {"text": "A cross between a parsnip and a beetroot"},
+        {"text": "A cross between fennel and carrots"}
+      ]
+    },
+    {
+      "question": "Which of these was once the national drink of Scotland?",
+      "correctAnswer": 0,
+      "answers": [
+        {"text": "Claret"},
+        {"text": "Amaretto"},
+        {"text": "Vodka"}
+      ]
+    },
+    {
+      "question": "Which of the following was a predecessor of the Milky Way bar",
+      "correctAnswer": 0,
+      "answers": [
+        {"text": "Fat Emma"},
+        {"text": "Lardy Larry"},
+        {"text": "Penny Plump"}
+      ]
+    }
+
+
+  ]
+}
+
+
+
+

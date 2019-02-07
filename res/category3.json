@@ -1,0 +1,54 @@
+  {
+    "name": "Computers",
+    "questions": [
+      {
+        "question": "Who was the father of computers?",
+        "correctAnswer": 2,
+        "answers": [
+          {"text": "Charlie Babbage"},
+          {"text": "Dennis Ritchie"},
+          {"text": "Charles Babbage"}
+        ]
+      },
+      {
+        "question": "What is the full form of CPU?",
+        "correctAnswer": 1,
+        "answers": [
+          {"text": "Central Process Unit"},
+          {"text": "Central Processing Unit"},
+          {"text": "Central Programming Unit"}
+        ]
+      },
+      {
+        "question": "What is the full form of CU?",
+        "correctAnswer": 2,
+        "answers": [
+          {"text": "Compound Unit"},
+          {"text": "Communication Unit"},
+          {"text": "Control Unit"}
+        ]
+      },
+      {
+        "question": "What is the full form of ALU?",
+        "correctAnswer": 0,
+        "answers": [
+          {"text": "Arithmetic Logic Unit"},
+          {"text": "Arithmetic Local Unit"},
+          {"text": "Advance Logical Unit"}
+        ]
+      },
+      {
+        "question": "What is the full form of MU?",
+        "correctAnswer": 2,
+        "answers": [
+          {"text": "Management Unit"},
+          {"text": "Masked Unit"},
+          {"text": "Memory Unit"}
+        ]
+      }
+
+    ]
+  }
+
+
+
