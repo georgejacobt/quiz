@@ -24,7 +24,7 @@ public class Quiz {
         try {
             loadQuiz();
         } catch (FileNotFoundException e) {
-            System.out.println("Something wet wrong and an exception occured");
+            System.out.println("Something wet wrong and an exception occurred");
             e.printStackTrace();
             return;
         }
@@ -37,17 +37,34 @@ public class Quiz {
             Scanner scanner = new Scanner(System.in);
             int option = scanner.nextInt();
             System.out.println("You selected: "+option);
+            playCategory(option);
             // TODO Move 41-47 to a new method called playCategory
-            Category category = categories.get(option);
-            int score = 0;
-            for (Question question: category.getQuestions()) {
-                score = score + askQuestion(question);
-            }
-            // TODO Change to scored/number of questions
-            System.out.println("Your score is: "+ score);
-            // TODO Ask to try again
+
         } else {
             System.out.println("This quiz has no categories. Thank you for playing.");
+        }
+
+    }
+
+    private void playCategory(int option) {
+        Category category = categories.get(option);
+        int score = 0;
+        int questions = 0;
+        for (Question question: category.getQuestions()) {
+            questions += 1;
+            score = score + askQuestion(question);
+        }
+        // TODO Change to scored/number of questions
+        System.out.println("Your score is: "+ score+"/"+questions);
+        // TODO Ask to try again
+        System.out.println("Would you like to play again..? Enter 1 to play again and 2 to exit");
+        Scanner scanner = new Scanner(System.in);
+        int optionPlayAgain = scanner.nextInt();
+
+        if (optionPlayAgain == 1){
+            start();
+        } else {
+            System.out.println("Thank you!");
         }
 
     }
@@ -68,9 +85,12 @@ public class Quiz {
     }
 
     private void loadQuiz() throws FileNotFoundException {
-        categories.add(loadCategory("res/category1.json"));
-        categories.add(loadCategory("res/category2.json"));
-        categories.add(loadCategory("res/category3.json"));
+        if (categories.size() == 0){
+            categories.add(loadCategory("res/category1.json"));
+            categories.add(loadCategory("res/category2.json"));
+            categories.add(loadCategory("res/category3.json"));
+        }
+
     }
 
     private Category loadCategory(String fileName) throws FileNotFoundException {
